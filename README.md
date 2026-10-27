@@ -435,18 +435,22 @@ Potential enhancements include:
 
 ## Credits and Project Attribution
 
-This repository is based on a Student Record Management API originally documented as part of the CodSoft Backend Development Internship.
+This repository contains a Student Course Management API based on an existing project developed as part of the CodSoft Backend Development Internship.
 
-**Original author:** Mohamed Aadhil M.
+**Repository Maintainer: Jaisurya R
 
-**Original repository:** [CODSOFT_TASKS](https://github.com/Paalpraveen01/CODSOFT_TASKS)
+**GitHub:** [Jaisuryar-R](https://github.com/Jaisuryar-R)
 
-Original project documentation: `Task1-Student-Record-API`
+**Original Repository:(https://github.com/Jaisuryar-R/student-course-management-api.git)
 
-Any modifications, documentation updates, or additional features should be described accurately to reflect the work contributed by each person.
+**Original Project:** `Task1-Student-Record-API`
+
+The repository setup and README documentation have been updated for this GitHub publication. The original implementation is credited to its original author.
+
+Further modifications and features will be documented according to the contributions made.
 
 ## Conclusion
 
-The Student Course Management API demonstrates a modular backend design for managing student records, courses, and enrollments using Node.js, Express.js, and MySQL.
+The Student Course Management API demonstrates a modular backend architecture for managing students, courses, and enrollments using Node.js, Express.js, and MySQL.
 
-Its documented features cover CRUD operations, relational data management, search, filtering, sorting, pagination, validation, and error handling.
+The project documentation describes CRUD operations, relational database management, search, filtering, sorting, pagination, request validation, and error handling.
